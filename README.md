@@ -39,8 +39,3 @@ Through this project, I improved my skills in:
 
 - ## Author
 Navya R Nair
-  
-
-## Author
-Navya R Nair
-Aspiring Data Analyst | Power BI Enthusiast
